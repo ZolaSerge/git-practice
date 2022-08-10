@@ -3,3 +3,4 @@ Add your name/pseudonym below, along with a brief descirption of your process. N
 
 Contributions:
 * @justinmillar: First I forked PATH-Global-Health/git-practice into my personal Github, then I used the Windows Terminal to clone the repo to my computer, make edits in VSCode, and push back to Github. Then I submitted a pull request (PR) to the main repo. 
+* @ZolaSerge : First I forked PATH-Global-Health/git-practice into my personal Github, The I used GIT CMD to clone the repo to my computer, I made a Git configuration on GIT CMD to synchronize my duplication with the upstream repository.
